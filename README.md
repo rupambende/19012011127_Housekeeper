@@ -21,3 +21,38 @@
 ![WhatsApp Image 2022-12-24 at 1 34 52 PM](https://user-images.githubusercontent.com/88902411/209427574-e54e2939-4d38-4c2d-b1b5-913a02ed9ff6.jpeg)
 
 ![WhatsApp Image 2022-12-24 at 1 34 51 PM (1)](https://user-images.githubusercontent.com/88902411/209427575-363c4774-1b2b-46ad-8f11-6bf23cd0fc7a.jpeg)
+
+
+when using our web application these are the steps followed by admin(warden).
+
+for clean requests:
+step 1:admin login.
+
+step 2:check for requests in dashboard. 
+
+step 3:allot housekeepers regarding requests.
+
+step 4:check for complaints or suggestions by students for clean requests.
+
+for register housekeeper/student:
+
+step 1:admin login. 
+
+step 2:open register student page/register housekeeper page.
+
+step 3:manually register student/housekeeper. 
+
+step 4: for register student you can upload data from pdf.
+
+
+when using our web application these are the steps followed by student (hosteller).
+
+step 1:student login.
+
+step 2:check for requests in dashboard.
+
+step 3:book clean requests through requests page.
+
+step 4:add feedback through feedback page.
+
+step 5:can check profile through profile page.
