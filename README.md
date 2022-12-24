@@ -1,28 +1,5 @@
 # Housekeeper
 
-![WhatsApp Image 2022-12-24 at 1 34 54 PM (1)](https://user-images.githubusercontent.com/88902411/209427567-c28f07c5-01fa-4e6a-a25d-f3eb6c64a76f.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 50 PM](https://user-images.githubusercontent.com/88902411/209427577-60e0a6b5-cc71-48b1-851d-cfd851e3b8bf.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 51 PM](https://user-images.githubusercontent.com/88902411/209427576-634002e3-4376-4cca-b5d1-24c59377a2d4.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 54 PM](https://user-images.githubusercontent.com/88902411/209427568-722f8e05-c450-4bf2-9385-c5b487f1f2aa.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 53 PM (2)](https://user-images.githubusercontent.com/88902411/209427569-433bc55e-b805-402c-ab46-81be2728a3c2.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 53 PM (1)](https://user-images.githubusercontent.com/88902411/209427570-cd743781-afd1-4c0b-bd18-8dfe4e0288d2.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 53 PM](https://user-images.githubusercontent.com/88902411/209427571-2f7be25c-3846-4bdf-9f5c-515c48458fc3.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 52 PM (2)](https://user-images.githubusercontent.com/88902411/209427572-34ba8734-eef5-4ba4-af6d-e819c4bef56d.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 52 PM (1)](https://user-images.githubusercontent.com/88902411/209427573-63ed5b5f-fcf7-41b5-b75b-6573dd9f2f9d.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 52 PM](https://user-images.githubusercontent.com/88902411/209427574-e54e2939-4d38-4c2d-b1b5-913a02ed9ff6.jpeg)
-
-![WhatsApp Image 2022-12-24 at 1 34 51 PM (1)](https://user-images.githubusercontent.com/88902411/209427575-363c4774-1b2b-46ad-8f11-6bf23cd0fc7a.jpeg)
-
-
 when using our web application these are the steps followed by admin(warden).
 for clean requests:
 
@@ -56,3 +33,16 @@ step 3:book clean requests through requests page.
 step 4:add feedback through feedback page.
 
 step 5:can check profile through profile page.
+![Student Feedback ](https://user-images.githubusercontent.com/88902411/209429234-e7ecbdc6-cb66-482b-aa9f-ba5aef334146.png)
+![student login](https://user-images.githubusercontent.com/88902411/209429237-7e7a40a7-a448-411e-afc8-2162114e8b39.png)
+![Student Profile Page](https://user-images.githubusercontent.com/88902411/209429239-bfd59ab8-8c16-41f2-b671-d9da592a3d31.png)
+![Admin Allot Housekeeper](https://user-images.githubusercontent.com/88902411/209429240-ee227264-026c-4d0a-b12d-eb011f23c571.png)
+![Admin Complaints Page](https://user-images.githubusercontent.com/88902411/209429243-e96839f5-f3b7-43ef-a472-6790e9d3442f.png)
+![admin dashboard](https://user-images.githubusercontent.com/88902411/209429244-34c77cc9-9913-47e3-b35a-a88187286015.png)
+![admin login](https://user-images.githubusercontent.com/88902411/209429245-5f02a6ac-9f31-431d-ac9f-3754e6050459.png)
+![Admin Register Housekeeper](https://user-images.githubusercontent.com/88902411/209429246-fea54b32-6fcc-4110-b87c-9f10119ba4c2.png)
+![Admin Register Student](https://user-images.githubusercontent.com/88902411/209429247-ed69ccab-5619-41dd-9732-5650f4579fdd.png)
+![Admin Suggestions Page](https://user-images.githubusercontent.com/88902411/209429248-b58a7102-9072-42f2-a0ce-5009e90ac110.png)
+![Student Clean Request Page](https://user-images.githubusercontent.com/88902411/209429250-0db41d36-b88d-4054-a548-8b23cf6b3c67.png)
+![Student dashboard](https://user-images.githubusercontent.com/88902411/209429251-76d3c71b-2a49-4d16-8322-2e6e170f112d.png)
+
